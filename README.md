@@ -1,5 +1,5 @@
 dockerfiles-centos-mongodb
-========================
+===========================
 
 CentOS 7 dockerfile for Oracle JDK7
 
